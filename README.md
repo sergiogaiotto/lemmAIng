@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sergiogaiotto/lemmAIg">
-    <img loading="lazy" alt="lemmAIg" src="https://github.com/sergiogaiotto/lemmAIg/main/docs/assets/lemmaig_logo.jpeg" width="100%"/>
+    <img loading="lazy" alt="lemmAIg" src="https://github.com/sergiogaiotto/lemmAIg/blob/main/docs/assests/lemmaig_logo.jpeg" width="100%"/>
   </a>
 </p>
 
