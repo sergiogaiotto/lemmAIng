@@ -1,6 +1,10 @@
 # lemmAIngs - Spec-Driven Development, by Gaiotto
 
-https://raw.githubusercontent.com/sergiogaiotto/lemmAIg/main/docs/assets/lemmaig_logo.jpeg
+<p align="center">
+  <a href="https://github.com/sergiogaiotto/lemmAIg">
+    <img loading="lazy" alt="lemmAIg" src="https://raw.githubusercontent.com/sergiogaiotto/lemmAIg/main/docs/assets/lemmaig_logo.jpeg" width="100%"/>
+  </a>
+</p>
 
 Aplicacao de **spec-driven development** com agentes de IA, onde especificacoes se tornam artefatos executaveis que geram implementacoes funcionais.
 
